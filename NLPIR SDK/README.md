@@ -1,10 +1,11 @@
 ## NLPIR SDK##
 
-NLPIR SDK存放了19种NLPIR语义增强分析平台的组件包:
+NLPIR SDK存放了20种NLPIR语义增强分析平台的组件包:
 
 - Classify规则分类组件：专家启发式规则分类组件
 - Cluster文本聚类组件：Top K主题的自动聚类算法
 - DeepClassifier深度学校训练文本分类组件：
+- DocCompare文档比对组件：对两篇文本进行相似度比对
 - DocExtractor命名实体抽取组件：抽取人名、地名、机构名、时间、及各类自定义的信息
 - DocParser文档解析组件（可解析word,wps,excel,powerpoint,pdf,html等各个版本文档，内嵌OCR）
 - HTMLPaser网站正文提取组件
