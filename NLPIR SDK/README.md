@@ -22,7 +22,6 @@ NLPIR SDK存放了19种NLPIR语义增强分析平台的组件包:
 - TextSimilarity文本相似度组件：支持三种模式（字、词、语义）的文本相似度计算
 - Word2Vector词向量自动生成
 
-
 ##组件包内容介绍##
 - doc:使用说明文档和API文档
 - include：头文件
