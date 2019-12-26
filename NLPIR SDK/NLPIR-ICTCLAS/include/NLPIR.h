@@ -15,7 +15,7 @@
  *			Weibo: http://weibo.com/drkevinzhang
  *			Homepage: http://www.nlpir.org
  * Date:     2018-2-28
- *
+ *			Adding NLPIR_Tokenizer4IR in 2019/12/26
  * Notes:
  *                
  ****************************************************************************/
