@@ -788,4 +788,3 @@ NLPIR_API const char * NLPIR_NWI_GetKeyWordResult(int nMaxKeyLimit=50,bool bWeig
 NLPIR_API unsigned int  NLPIR_NWI_Result2UserDict();//新词识别结果转为用户词典,返回新词结果数目
 #endif//NLPIR_INTERNAL_CALL
 #endif//#define __NLPIR_ICTCLAS_2018_H_INCLUDED__
-
